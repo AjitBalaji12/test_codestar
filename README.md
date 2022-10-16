@@ -94,3 +94,5 @@ Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-pract
 
 test codestar source pipeline
 testing parllel job
+
+trying pipeline aws
